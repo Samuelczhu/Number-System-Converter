@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Number System Converter</string>
+    <string name="number_system">Number System</string>
+    <string name="converter">Converter</string>
+    <string name="ask_input">Please enter a number:</string>
+    <string name="submit">Submit</string>
+    <string name="binary">Binary:</string>
+    <string name="twos_complement">2\'s C. :</string>
+    <string name="hexadecimal">Hex:</string>
+    <string name="decimal">Deci:</string>
+    <string name="invalid_prompt">Please enter valid number</string>
+
+    <string name="bin">Binary</string>
+    <string name="twos">2\'s C.</string>
+    <string name="hex">Hex</string>
+    <string name="dec">Decimal</string>
+    <string-array name="number_system">
+        <item>@string/bin</item>
+        <item>@string/twos</item>
+        <item>@string/hex</item>
+        <item>@string/dec</item>
+    </string-array>
+</resources>
