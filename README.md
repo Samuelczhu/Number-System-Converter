@@ -2,4 +2,4 @@
 This android app convert number between binary, 2's complement, hexadecimal, and decimal
 
 # Images
-<img src="images/image1.jpg" width="300"> <img src="images/image2.jpg" width="300"> <img src="images/image3.jpg" width="300">
+<img src="images/image1.png" width="300"> <img src="images/image2.png" width="300"> <img src="images/image3.png" width="300">
